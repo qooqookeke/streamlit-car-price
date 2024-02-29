@@ -1,4 +1,4 @@
-# 🚗streamlit-car-price 🚙
+# 🚗 streamlit-car-price 🚙
 자동차 구매 금액을 예측하는 대시보드 앱
 
 <br/>
